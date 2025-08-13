@@ -1,0 +1,6 @@
+# Xcode user state (repo'ya girmesin)
+**/xcuserdata/
+**/UserInterfaceState.xcuserstate
+
+# SwiftPM build
+.build/
