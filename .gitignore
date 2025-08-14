@@ -9,3 +9,6 @@
 googleService-Info.plist
 GoogleService-Info.plist
 **/GoogleService-Info.plist
+
+# Ignore Firebase config
+**/GoogleService-Info*.plist
