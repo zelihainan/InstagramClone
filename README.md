@@ -44,10 +44,12 @@ open InstaClone.xcworkspace
 
 → Set Up Firebase
 
-Go to Firebase Console and create a new project. Add an iOS app to the project and match the Bundle Identifier with your Xcode target.
-GoogleService-Info.plist is already included in the project — no extra setup required. (make sure it's included in Build Phases → Copy Bundle Resources).
-Enable required Firebase services (Authentication, Storage, Firestore or Realtime Database).
-For detailed setup, follow the official Firebase iOS Setup Guide.
+Go to Firebase Console and create a new project.
+Add an iOS app to the project and set the Bundle Identifier to match your Xcode target.
+Download the generated GoogleService-Info.plist from Firebase.
+Add it to your Xcode project and make sure it’s included in Build Phases → Copy Bundle Resources.
+In the Firebase Console, enable the services you need (e.g., Authentication, Storage, Firestore or Realtime Database).
+For more details, refer to the official Firebase iOS Setup Guide.
 
 → Run the App
 Run in Xcode (⌘R) using a simulator or real device.
