@@ -11,11 +11,11 @@ A simple Instagram clone built with Swift and Firebase. It includes basic featur
 
 ## Screenshots
 <p align="left">
-  <img width="175" style="margin:10px;" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 14 33 14" src="https://github.com/user-attachments/assets/90330231-e645-4aff-93da-2f8ad165f293" />
-  <img width="175" style="margin:10px;" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 14 33 44" src="https://github.com/user-attachments/assets/4607b540-223a-4e78-92e9-bfddc95cbbd6" />
-  <img width="175" style="margin:10px;" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 14 34 03" src="https://github.com/user-attachments/assets/25743f65-70e1-4996-a4d5-57a1fea64639" />
-  <img width="175" style="margin:10px;" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 14 35 17" src="https://github.com/user-attachments/assets/a3d192c8-7a9d-4ae6-a3d4-4bc3c2c70aa7" />
-  <img width="175" style="margin:10px;" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 14 35 41" src="https://github.com/user-attachments/assets/c8e8a076-911e-426a-896b-db04623ccef7" />
+  <img width="190" style="margin:10px;" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 14 33 14" src="https://github.com/user-attachments/assets/90330231-e645-4aff-93da-2f8ad165f293" />
+  <img width="190" style="margin:10px;" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 14 33 44" src="https://github.com/user-attachments/assets/4607b540-223a-4e78-92e9-bfddc95cbbd6" />
+  <img width="190" style="margin:10px;" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 14 34 03" src="https://github.com/user-attachments/assets/25743f65-70e1-4996-a4d5-57a1fea64639" />
+  <img width="190" style="margin:10px;" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 14 35 17" src="https://github.com/user-attachments/assets/a3d192c8-7a9d-4ae6-a3d4-4bc3c2c70aa7" />
+  <img width="190" style="margin:10px;" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-14 at 14 35 41" src="https://github.com/user-attachments/assets/c8e8a076-911e-426a-896b-db04623ccef7" />
 </p>
 
 
